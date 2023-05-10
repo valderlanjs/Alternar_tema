@@ -1,4 +1,4 @@
-# Altear Tema de Página
+# Alterar Tema de Página
 
 |     | Project           | Live Demo                                                             |
 | :-: | ----------------- | --------------------------------------------------------------        |
